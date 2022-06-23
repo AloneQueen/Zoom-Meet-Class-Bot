@@ -45,7 +45,7 @@ Zoom-Meet-Class-Bot is a telegram bot which can be deployed to a server, heroku 
 > Note: NOT RECOMMENDED!!!!! In one click deploy you will have to re-login every day.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CyberBoyAyush/Zoom-Meet-Class-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AloneQueen/Zoom-Meet-Class-Bot)
 
 **Conventional Deploy**
 
